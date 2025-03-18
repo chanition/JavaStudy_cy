@@ -24,7 +24,7 @@ public class ArrayEx6 {
                 maxNumber = numbers[i];
             }
         }
-        System.out.println("가장 작은 정수 : " + minNumber);
-        System.out.println("가장 큰 정수 : " + maxNumber);
+        System.out.println("가장 작은 정수" +minNumber);
+        System.out.println("가장 큰 정수" +maxNumber);
     }
 }

@@ -18,7 +18,7 @@ public class ArrayEx5 {
             numbers[i] = scanner.nextInt();
             sum += numbers[i];
         }
-        average = (double) sum / numbers.length;
+        average = (double) sum / count;
         System.out.println("입력한 정수의 합계 : " + sum);
         System.out.println("입력한 정수의 평균 : " + average);
 
